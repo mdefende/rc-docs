@@ -106,7 +106,7 @@ nav:
       - Software Containers: workflow_solutions/getting_containers.md
       - Software Collaboration with GitHub and GitLab: workflow_solutions/git_collaboration.md
   - Cheaha Guide:
-      - Getting Started: cheaha/getting_started.md
+      - cheaha/index.md
       - Hardware: cheaha/hardware.md
       - Software:
           - Preinstalled Modules: cheaha/software/modules.md
