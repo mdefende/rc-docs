@@ -34,7 +34,7 @@ An important philosophy of cloud services is that virtual machines are disposabl
 
 With that in mind, there are many possible use-cases for cloud.rc. Broadly speaking, a few common ones:
 
-1. Experimental workflow development prior to [Containerization](../workflow_solutions/getting_containers.md) and batch processing on [Cheaha](../cheaha/getting_started.md) or a [National Cyberinfrastructure platform](../national_ci/index.md).
+1. Experimental workflow development prior to [Containerization](../workflow_solutions/getting_containers.md) and batch processing on [Cheaha](../cheaha/index.md) or a [National Cyberinfrastructure platform](../national_ci/index.md).
 2. Packaging software into [Containers](../workflow_solutions/getting_containers.md#create-your-own-docker-container).
 3. Temporary hosting of server software for scientific development or workflows.
 

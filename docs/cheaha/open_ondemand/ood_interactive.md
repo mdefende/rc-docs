@@ -1,6 +1,6 @@
 # Interactive Apps
 
-The Interactive Apps dropdown from the toolbar lists applications which can be launched and interacted with directly from the browser. These applications run in [Slurm Jobs](../slurm/introduction.md#batch-job-workflow) on [Cheaha](../getting_started.md). There is an [HPC Desktop](#hpc-desktop) that will allow you access to an operating system desktop, terminal, filesystem, and Cheaha software, all running on Cheaha. There are also several common and popular [Standalone Programs](#standalone-programs) including [Matlab](#matlab), [Jupyter Notebooks](#jupyter-notebook), and [RStudio Server](#rstudio-server). All interactive apps have similar job submission forms, please see [HPC Desktop](#hpc-desktop) for an overview.
+The Interactive Apps dropdown from the toolbar lists applications which can be launched and interacted with directly from the browser. These applications run in [Slurm Jobs](../slurm/introduction.md#batch-job-workflow) on [Cheaha](../index.md). There is an [HPC Desktop](#hpc-desktop) that will allow you access to an operating system desktop, terminal, filesystem, and Cheaha software, all running on Cheaha. There are also several common and popular [Standalone Programs](#standalone-programs) including [Matlab](#matlab), [Jupyter Notebooks](#jupyter-notebook), and [RStudio Server](#rstudio-server). All interactive apps have similar job submission forms, please see [HPC Desktop](#hpc-desktop) for an overview.
 
 There is also a [My Interactive Sessions Page](#my-interactive-sessions) listing the available apps and your current interactive sessions. If you get logged out, disconnected, or lose track of an interactive application (because of a closed tab or computer shutdown) you can reconnect to running applications on this page.
 
@@ -89,8 +89,6 @@ Some software can be run standalone, and does not require an [HPC Desktop](#hpc-
 
     Versions shown in the OOD form may not line up with versions available in modules. If you need a version not available in OOD, please feel free to [send in a ticket](../../index.md#contact-us).
 <!-- markdownlint-enable MD046 -->
-
-
 
 ### Jupyter Notebook
 
@@ -315,7 +313,6 @@ You may optionally verify that Python works correctly by entering `py.list(["hel
 #### Using a GPU with MATLAB
 
 Please see the [MATLAB Section on our GPU Page](../slurm/gpu.md#matlab).
-
 
 ## My Interactive Sessions
 
