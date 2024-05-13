@@ -1,4 +1,4 @@
-# Introduction to Slurm
+# Slurm
 
 All work on Cheaha must be submitted to the queueing system, Slurm. This doc gives a basic overview of Slurm and how to use it.
 
